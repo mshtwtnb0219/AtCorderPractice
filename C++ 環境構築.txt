@@ -1,2 +1,14 @@
 【C / C++をVSCodeで開発するための環境構築】
 https://qiita.com/ochx/items/01449d09777187790ee4
+
+【実行方法ショートカット】
+ctrl + alt + N 
+
+【サンプルプログラム】
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World" << endl;
+}
