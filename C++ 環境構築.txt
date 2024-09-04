@@ -1,8 +1,6 @@
-【C / C++をVSCodeで開発するための環境構築】
-https://qiita.com/ochx/items/01449d09777187790ee4
+【C / C++をVisualStudioで開発するための環境構築】
+https://www.youtube.com/watch?v=fHB8I2GjAyk&list=PLcuLcFhI8wDCpZlr2J-MY5gHECi6RBn9o&index=1
 
-【実行方法ショートカット】
-ctrl + alt + N 
 
 【サンプルプログラム】
 #include <iostream>
