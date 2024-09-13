@@ -2,6 +2,12 @@
 https://www.youtube.com/watch?v=fHB8I2GjAyk&list=PLcuLcFhI8wDCpZlr2J-MY5gHECi6RBn9o&index=1
 
 
+
+
+
+最終的な手順
+https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build
+
 【サンプルプログラム】
 #include <iostream>
 using namespace std;
