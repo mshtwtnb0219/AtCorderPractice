@@ -1,0 +1,22 @@
+root/
+  └ AtcoderSolution/
+                     ├ (コンテスト名)/
+                     |    ├ (問題番号)/
+                     |    |  ├ test/  # テストケース
+                     |    |  |   ├ sample-1.in
+                     |    |  |   └ sample-1.out
+                     |    |  └ main.cpp  # 提出用ファイル
+                     ├ a.out  # 実行用ファイル
+                     └ debug.in  # デバッグ用のケース入力用ファイル
+                     
+                     
+home/masa
+  └ atcoder/
+                     ├ (コンテスト名)/
+                     |    ├ (問題番号)/
+                     |    |  ├ test/  # テストケース
+                     |    |  |   ├ sample-1.in
+                     |    |  |   └ sample-1.out
+                     |    |  └ main.cpp  # 提出用ファイル
+                     ├ a.out  # 実行用ファイル
+                     └ debug.in  # デバッグ用のケース入力用ファイル
