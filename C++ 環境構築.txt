@@ -1,3 +1,12 @@
+【ユーザアカウント名】
+msht0219
+.c@yCeVYA6D4jg!
+
+
+
+mshtwtnb0219
+
+
 【C / C++をVisualStudioで開発するための環境構築】
 https://www.youtube.com/watch?v=fHB8I2GjAyk&list=PLcuLcFhI8wDCpZlr2J-MY5gHECi6RBn9o&index=1
 
@@ -16,3 +25,46 @@ int main()
 {
     cout << "Hello World" << endl;
 }
+
+
+
+確認しておきたいこと
+gcc g++の確認
+
+version12になっていることの確認
+$ sudo apt install gcc-12
+$ sudo apt install g++-12
+
+以下のコマンドを実行して、 update-alternativesコマンドの設定をしておこう。
+
+$ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-12 12
+$ sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-12 12
+
+
+$ gcc --version
+$ g++ --version
+
+
+pythonとnpmのバージョン確認
+
+root@DESKTOP-L0HGBL8:/home/masa/atcoder# pip3 -V
+pip 22.0.2 from /usr/lib/python3/dist-packages/pip (python 3.10)
+
+root@DESKTOP-L0HGBL8:/home/masa/atcoder# npm --version
+10.8.2
+
+
+
+Atcoderログイン
+
+
+
+
+
+
+
+ここでは、
+「ビルド」をCtrl+Alt+B、
+「サンプルケース実行」をCtrl+Alt+T、
+「ソースコード提出」をCtrl+Alt+Sとした。
+
