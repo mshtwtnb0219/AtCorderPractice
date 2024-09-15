@@ -1,23 +1,23 @@
-yƒ†[ƒUƒAƒJƒEƒ“ƒg–¼z
+ï¿½yï¿½ï¿½ï¿½[ï¿½Uï¿½Aï¿½Jï¿½Eï¿½ï¿½ï¿½gï¿½ï¿½ï¿½z
 msht0219
-.c@yCeVYA6D4jg!
+
 
 
 
 mshtwtnb0219
 
 
-yC / C++‚ğVisualStudio‚ÅŠJ”­‚·‚é‚½‚ß‚ÌŠÂ‹«\’zz
+ï¿½yC / C++ï¿½ï¿½VisualStudioï¿½ÅŠJï¿½ï¿½ï¿½ï¿½ï¿½é‚½ï¿½ß‚ÌŠÂ‹ï¿½ï¿½\ï¿½zï¿½z
 https://www.youtube.com/watch?v=fHB8I2GjAyk&list=PLcuLcFhI8wDCpZlr2J-MY5gHECi6RBn9o&index=1
 
 
 
 
 
-ÅI“I‚Èè‡
+ï¿½ÅIï¿½Iï¿½Èè‡
 https://yuulis.hatenablog.com/entry/atcoder-cpp-env-build
 
-yƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€z
+ï¿½yï¿½Tï¿½ï¿½ï¿½vï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½ï¿½ï¿½z
 #include <iostream>
 using namespace std;
 
@@ -28,14 +28,14 @@ int main()
 
 
 
-Šm”F‚µ‚Ä‚¨‚«‚½‚¢‚±‚Æ
-gcc g++‚ÌŠm”F
+ï¿½mï¿½Fï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+gcc g++ï¿½ÌŠmï¿½F
 
-version12‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚ÌŠm”F
+version12ï¿½É‚È‚ï¿½ï¿½Ä‚ï¿½ï¿½é‚±ï¿½Æ‚ÌŠmï¿½F
 $ sudo apt install gcc-12
 $ sudo apt install g++-12
 
-ˆÈ‰º‚ÌƒRƒ}ƒ“ƒh‚ğÀs‚µ‚ÄA update-alternativesƒRƒ}ƒ“ƒh‚Ìİ’è‚ğ‚µ‚Ä‚¨‚±‚¤B
+ï¿½È‰ï¿½ï¿½ÌƒRï¿½}ï¿½ï¿½ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ÄA update-alternativesï¿½Rï¿½}ï¿½ï¿½ï¿½hï¿½Ìİ’ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 
 $ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-12 12
 $ sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-12 12
@@ -45,7 +45,7 @@ $ gcc --version
 $ g++ --version
 
 
-python‚Ænpm‚Ìƒo[ƒWƒ‡ƒ“Šm”F
+pythonï¿½ï¿½npmï¿½Ìƒoï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½ï¿½mï¿½F
 
 root@DESKTOP-L0HGBL8:/home/masa/atcoder# pip3 -V
 pip 22.0.2 from /usr/lib/python3/dist-packages/pip (python 3.10)
@@ -55,7 +55,7 @@ root@DESKTOP-L0HGBL8:/home/masa/atcoder# npm --version
 
 
 
-AtcoderƒƒOƒCƒ“
+Atcoderï¿½ï¿½ï¿½Oï¿½Cï¿½ï¿½
 
 
 
@@ -63,8 +63,8 @@ AtcoderƒƒOƒCƒ“
 
 
 
-‚±‚±‚Å‚ÍA
-uƒrƒ‹ƒhv‚ğCtrl+Alt+BA
-uƒTƒ“ƒvƒ‹ƒP[ƒXÀsv‚ğCtrl+Alt+TA
-uƒ\[ƒXƒR[ƒh’ñov‚ğCtrl+Alt+S‚Æ‚µ‚½B
+ï¿½ï¿½ï¿½ï¿½ï¿½Å‚ÍA
+ï¿½uï¿½rï¿½ï¿½ï¿½hï¿½vï¿½ï¿½Ctrl+Alt+Bï¿½A
+ï¿½uï¿½Tï¿½ï¿½ï¿½vï¿½ï¿½ï¿½Pï¿½[ï¿½Xï¿½ï¿½ï¿½sï¿½vï¿½ï¿½Ctrl+Alt+Tï¿½A
+ï¿½uï¿½\ï¿½[ï¿½Xï¿½Rï¿½[ï¿½hï¿½ï¿½oï¿½vï¿½ï¿½Ctrl+Alt+Sï¿½Æ‚ï¿½ï¿½ï¿½ï¿½B
 
